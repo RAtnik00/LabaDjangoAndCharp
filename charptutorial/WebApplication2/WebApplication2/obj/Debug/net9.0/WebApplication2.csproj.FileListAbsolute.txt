@@ -113,9 +113,7 @@ C:\Users\yarem\Documents\LabaDjangoAndCharp\charptutorial\WebApplication2\WebApp
 C:\Users\yarem\Documents\LabaDjangoAndCharp\charptutorial\WebApplication2\WebApplication2\obj\Debug\net9.0\WebApplication2.RazorAssemblyInfo.cache
 C:\Users\yarem\Documents\LabaDjangoAndCharp\charptutorial\WebApplication2\WebApplication2\obj\Debug\net9.0\WebApplication2.RazorAssemblyInfo.cs
 C:\Users\yarem\Documents\LabaDjangoAndCharp\charptutorial\WebApplication2\WebApplication2\obj\Debug\net9.0\WebApplication2.sourcelink.json
-C:\Users\yarem\Documents\LabaDjangoAndCharp\charptutorial\WebApplication2\WebApplication2\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\yarem\Documents\LabaDjangoAndCharp\charptutorial\WebApplication2\WebApplication2\obj\Debug\net9.0\scopedcss\bundle\WebApplication2.styles.css
-C:\Users\yarem\Documents\LabaDjangoAndCharp\charptutorial\WebApplication2\WebApplication2\obj\Debug\net9.0\scopedcss\projectbundle\WebApplication2.bundle.scp.css
 C:\Users\yarem\Documents\LabaDjangoAndCharp\charptutorial\WebApplication2\WebApplication2\obj\Debug\net9.0\compressed\sde506kbqk-b9sayid5wm.gz
 C:\Users\yarem\Documents\LabaDjangoAndCharp\charptutorial\WebApplication2\WebApplication2\obj\Debug\net9.0\compressed\4waqayht7b-61n19gt1b8.gz
 C:\Users\yarem\Documents\LabaDjangoAndCharp\charptutorial\WebApplication2\WebApplication2\obj\Debug\net9.0\compressed\sdpnvg2aoh-xtxxf3hu2r.gz
@@ -178,8 +176,6 @@ C:\Users\yarem\Documents\LabaDjangoAndCharp\charptutorial\WebApplication2\WebApp
 C:\Users\yarem\Documents\LabaDjangoAndCharp\charptutorial\WebApplication2\WebApplication2\obj\Debug\net9.0\compressed\stuenhrmdh-muycvpuwrr.gz
 C:\Users\yarem\Documents\LabaDjangoAndCharp\charptutorial\WebApplication2\WebApplication2\obj\Debug\net9.0\compressed\nwsiqbdq0w-87fc7y1x7t.gz
 C:\Users\yarem\Documents\LabaDjangoAndCharp\charptutorial\WebApplication2\WebApplication2\obj\Debug\net9.0\compressed\io2xxcf46y-mlv21k5csn.gz
-C:\Users\yarem\Documents\LabaDjangoAndCharp\charptutorial\WebApplication2\WebApplication2\obj\Debug\net9.0\compressed\fp9il18uij-r3lnqb1i7l.gz
-C:\Users\yarem\Documents\LabaDjangoAndCharp\charptutorial\WebApplication2\WebApplication2\obj\Debug\net9.0\compressed\lohozebfj0-r3lnqb1i7l.gz
 C:\Users\yarem\Documents\LabaDjangoAndCharp\charptutorial\WebApplication2\WebApplication2\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\yarem\Documents\LabaDjangoAndCharp\charptutorial\WebApplication2\WebApplication2\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\yarem\Documents\LabaDjangoAndCharp\charptutorial\WebApplication2\WebApplication2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
