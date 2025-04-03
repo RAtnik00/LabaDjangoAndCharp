@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\yarem\\source\\repos\\WebApplication2\\",
+  "WorkspaceRootPath": "C:\\Users\\yarem\\Documents\\LabaDjangoAndCharp\\charptutorial\\WebApplication2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B315BB28-8CAC-4C79-A56F-77FF74F1C602}|WebApplication2\\WebApplication2.csproj|c:\\users\\yarem\\source\\repos\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B315BB28-8CAC-4C79-A56F-77FF74F1C602}|WebApplication2\\WebApplication2.csproj|c:\\users\\yarem\\documents\\labadjangoandcharp\\charptutorial\\webapplication2\\webapplication2\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B315BB28-8CAC-4C79-A56F-77FF74F1C602}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B315BB28-8CAC-4C79-A56F-77FF74F1C602}|WebApplication2\\WebApplication2.csproj|c:\\users\\yarem\\documents\\labadjangoandcharp\\charptutorial\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B315BB28-8CAC-4C79-A56F-77FF74F1C602}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\yarem\\source\\repos\\WebApplication2\\WebApplication2\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
-              "ToolTip": "C:\\Users\\yarem\\source\\repos\\WebApplication2\\WebApplication2\\Program.cs",
-              "RelativeToolTip": "WebApplication2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "HelloWorldController.cs",
+              "DocumentMoniker": "C:\\Users\\yarem\\Documents\\LabaDjangoAndCharp\\charptutorial\\WebApplication2\\WebApplication2\\Controllers\\HelloWorldController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\HelloWorldController.cs",
+              "ToolTip": "C:\\Users\\yarem\\Documents\\LabaDjangoAndCharp\\charptutorial\\WebApplication2\\WebApplication2\\Controllers\\HelloWorldController.cs*",
+              "RelativeToolTip": "WebApplication2\\Controllers\\HelloWorldController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T15:08:51.418Z",
+              "WhenOpened": "2025-04-03T06:29:01.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yarem\\Documents\\LabaDjangoAndCharp\\charptutorial\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "C:\\Users\\yarem\\Documents\\LabaDjangoAndCharp\\charptutorial\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T06:27:32.453Z",
               "EditorCaption": ""
             }
           ]
