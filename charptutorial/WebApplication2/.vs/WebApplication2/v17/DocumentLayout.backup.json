@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\yarem\\Documents\\LabaDjangoAndCharp\\charptutorial\\WebApplication2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B315BB28-8CAC-4C79-A56F-77FF74F1C602}|WebApplication2\\WebApplication2.csproj|c:\\users\\yarem\\documents\\labadjangoandcharp\\charptutorial\\webapplication2\\webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B315BB28-8CAC-4C79-A56F-77FF74F1C602}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B315BB28-8CAC-4C79-A56F-77FF74F1C602}|WebApplication2\\MvcMovie.csproj|c:\\users\\yarem\\documents\\labadjangoandcharp\\charptutorial\\webapplication2\\webapplication2\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B315BB28-8CAC-4C79-A56F-77FF74F1C602}|WebApplication2\\MvcMovie.csproj|solutionrelative:webapplication2\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B315BB28-8CAC-4C79-A56F-77FF74F1C602}|WebApplication2\\WebApplication2.csproj|c:\\users\\yarem\\documents\\labadjangoandcharp\\charptutorial\\webapplication2\\webapplication2\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B315BB28-8CAC-4C79-A56F-77FF74F1C602}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B315BB28-8CAC-4C79-A56F-77FF74F1C602}|WebApplication2\\WebApplication2.csproj|c:\\users\\yarem\\documents\\labadjangoandcharp\\charptutorial\\webapplication2\\webapplication2\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B315BB28-8CAC-4C79-A56F-77FF74F1C602}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B315BB28-8CAC-4C79-A56F-77FF74F1C602}|WebApplication2\\WebApplication2.csproj|c:\\users\\yarem\\documents\\labadjangoandcharp\\charptutorial\\webapplication2\\webapplication2\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B315BB28-8CAC-4C79-A56F-77FF74F1C602}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B315BB28-8CAC-4C79-A56F-77FF74F1C602}|WebApplication2\\WebApplication2.csproj|c:\\users\\yarem\\documents\\labadjangoandcharp\\charptutorial\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B315BB28-8CAC-4C79-A56F-77FF74F1C602}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B315BB28-8CAC-4C79-A56F-77FF74F1C602}|WebApplication2\\MvcMovie.csproj|c:\\users\\yarem\\documents\\labadjangoandcharp\\charptutorial\\webapplication2\\webapplication2\\mvcmovie.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B315BB28-8CAC-4C79-A56F-77FF74F1C602}|WebApplication2\\MvcMovie.csproj|solutionrelative:webapplication2\\mvcmovie.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\yarem\\Documents\\LabaDjangoAndCharp\\charptutorial\\WebApplication2\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\yarem\\Documents\\LabaDjangoAndCharp\\charptutorial\\WebApplication2\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T07:31:22.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\yarem\\Documents\\LabaDjangoAndCharp\\charptutorial\\WebApplication2\\WebApplication2\\Views\\HelloWorld\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\HelloWorld\\Index.cshtml",
-              "ToolTip": "C:\\Users\\yarem\\Documents\\LabaDjangoAndCharp\\charptutorial\\WebApplication2\\WebApplication2\\Views\\HelloWorld\\Index.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\HelloWorld\\Index.cshtml",
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\yarem\\Documents\\LabaDjangoAndCharp\\charptutorial\\WebApplication2\\WebApplication2\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\yarem\\Documents\\LabaDjangoAndCharp\\charptutorial\\WebApplication2\\WebApplication2\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\MoviesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T07:07:15.467Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:12:41.112Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HelloWorldController.cs",
-              "DocumentMoniker": "C:\\Users\\yarem\\Documents\\LabaDjangoAndCharp\\charptutorial\\WebApplication2\\WebApplication2\\Controllers\\HelloWorldController.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\HelloWorldController.cs",
-              "ToolTip": "C:\\Users\\yarem\\Documents\\LabaDjangoAndCharp\\charptutorial\\WebApplication2\\WebApplication2\\Controllers\\HelloWorldController.cs",
-              "RelativeToolTip": "WebApplication2\\Controllers\\HelloWorldController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T06:29:01.74Z",
+              "Title": "MvcMovie.csproj",
+              "DocumentMoniker": "C:\\Users\\yarem\\Documents\\LabaDjangoAndCharp\\charptutorial\\WebApplication2\\WebApplication2\\MvcMovie.csproj",
+              "RelativeDocumentMoniker": "WebApplication2\\MvcMovie.csproj",
+              "ToolTip": "C:\\Users\\yarem\\Documents\\LabaDjangoAndCharp\\charptutorial\\WebApplication2\\WebApplication2\\MvcMovie.csproj*",
+              "RelativeToolTip": "WebApplication2\\MvcMovie.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-03T08:07:25.45Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\yarem\\Documents\\LabaDjangoAndCharp\\charptutorial\\WebApplication2\\WebApplication2\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
-              "ToolTip": "C:\\Users\\yarem\\Documents\\LabaDjangoAndCharp\\charptutorial\\WebApplication2\\WebApplication2\\Program.cs",
-              "RelativeToolTip": "WebApplication2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\yarem\\Documents\\LabaDjangoAndCharp\\charptutorial\\WebApplication2\\WebApplication2\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\yarem\\Documents\\LabaDjangoAndCharp\\charptutorial\\WebApplication2\\WebApplication2\\Models\\Movie.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T06:27:32.453Z",
+              "WhenOpened": "2025-04-03T08:06:47.656Z",
               "EditorCaption": ""
             }
           ]

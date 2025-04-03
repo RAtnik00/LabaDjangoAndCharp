@@ -11,9 +11,11 @@ public class HelloWorldController : Controller
         return View();
     }
 
-    public string Welcome(string name, int ID = 1)
+    public IActionResult Welcome(string name, int numTimes = 1)
     {
-        return HtmlEncoder.Default.Encode($"Hello {name}, NumTimes is: {ID}");
+        ViewData["Message"] = "Hello " + name;
+        ViewData["NumTimes"] = numTimes;
+        return View();
     }
     
 }
