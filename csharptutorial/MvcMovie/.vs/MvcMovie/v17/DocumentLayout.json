@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\yarem\\source\\repos\\LabaDjangoAndCharp\\csharptutorial\\MvcMovie\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{29C31B91-4581-43DE-9D34-12AC1E01B31B}|MvcMovie\\MvcMovie.csproj|c:\\users\\yarem\\source\\repos\\labadjangoandcharp\\csharptutorial\\mvcmovie\\mvcmovie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29C31B91-4581-43DE-9D34-12AC1E01B31B}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{29C31B91-4581-43DE-9D34-12AC1E01B31B}|MvcMovie\\MvcMovie.csproj|c:\\users\\yarem\\source\\repos\\labadjangoandcharp\\csharptutorial\\mvcmovie\\mvcmovie\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{29C31B91-4581-43DE-9D34-12AC1E01B31B}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -23,11 +27,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\yarem\\source\\repos\\LabaDjangoAndCharp\\csharptutorial\\MvcMovie\\MvcMovie\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MvcMovie\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\yarem\\source\\repos\\LabaDjangoAndCharp\\csharptutorial\\MvcMovie\\MvcMovie\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MvcMovie\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T07:16:33.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\yarem\\source\\repos\\LabaDjangoAndCharp\\csharptutorial\\MvcMovie\\MvcMovie\\Views\\HelloWorld\\Index.cshtml",
               "RelativeDocumentMoniker": "MvcMovie\\Views\\HelloWorld\\Index.cshtml",
-              "ToolTip": "C:\\Users\\yarem\\source\\repos\\LabaDjangoAndCharp\\csharptutorial\\MvcMovie\\MvcMovie\\Views\\HelloWorld\\Index.cshtml*",
-              "RelativeToolTip": "MvcMovie\\Views\\HelloWorld\\Index.cshtml*",
+              "ToolTip": "C:\\Users\\yarem\\source\\repos\\LabaDjangoAndCharp\\csharptutorial\\MvcMovie\\MvcMovie\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeToolTip": "MvcMovie\\Views\\HelloWorld\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-09T07:10:14.377Z",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HelloWorldController.cs",
               "DocumentMoniker": "C:\\Users\\yarem\\source\\repos\\LabaDjangoAndCharp\\csharptutorial\\MvcMovie\\MvcMovie\\Controllers\\HelloWorldController.cs",
               "RelativeDocumentMoniker": "MvcMovie\\Controllers\\HelloWorldController.cs",
